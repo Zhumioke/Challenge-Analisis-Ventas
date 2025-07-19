@@ -50,5 +50,5 @@ Se calcula y grafica el costo promedio de envío en cada tienda.
 - Haz `git push` para subir los cambios al repositorio remoto.  
 
 ---
-
-¡Cualquier cosa me dices y seguimos puliendo!
+Gracias, por tomarte el trabajo de observar mi progreso.
+Saludos
