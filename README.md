@@ -47,8 +47,10 @@ Se calcula y grafica el costo promedio de envío en cada tienda.
 
 - Realiza modificaciones locales.  
 - Usa `git add` y `git commit` para registrar cambios con mensajes claros.  
-- Haz `git push` para subir los cambios al repositorio remoto.  
-
+- Haz `git push` para subir los cambios al repositorio remoto.
+ 
+## Finalizacion
+En el archivo ipynb esta el detalle trabajado con su conclucion. 
 ---
 Gracias, por tomarte el trabajo de observar mi progreso.
 Saludos
